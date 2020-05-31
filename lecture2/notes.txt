@@ -1,0 +1,2 @@
+How to make 'python' command in terminal run python3 instead of python2
+>>modify your ~/.bashrc file, add a new line: alias python=python3.x
