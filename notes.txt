@@ -26,6 +26,9 @@ Add all new and changed files to the staging area
 >>git commit -m "message"
 Commit changes
 
+>>git commit -am "message"
+commit all the changes and provide a message
+
 >>git rm -r <file-name>
 Remove a file (or folder)
 
